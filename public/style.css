@@ -105,6 +105,8 @@ body {
     word-break: break-all;
     color: white;
     font-size: 20px;
+    padding: 10px;
+    margin: 30px;
 }
 
 .img_confing {
@@ -131,4 +133,5 @@ body {
     position: absolute;
     left: 25%;
     top: 69%;
+    padding: 10px;
 }
